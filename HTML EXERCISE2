@@ -1,0 +1,56 @@
+<html><head> 
+<title>LYRICS</title>
+<link rel="shortcut icon" type="image/x-icon" href="">
+<link rel="stylesheet">	
+<style>
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvh0mGXVlrvygI1HktM7K7TcakQKn3aFJDQ&usqp=CAU);
+	background-repeat:no repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%
+
+}
+</style>
+
+</head>
+<body>
+<a href="file:///C:/Users/acer/OneDrive/Documents/JHEL%20WEBDEV/pictures.html">
+<h1 style="color:black">Return</h1>
+</a><a href="file:///C:/Users/acer/OneDrive/Documents/JHEL%20WEBDEV/log%20in.html">
+<h1 style="color:black">log out</h1>
+
+</a><form class="box" action="" method="post"><a>
+</a><center style="color:black"><a>
+</a><a align="center" style="font-size:60">"UC HYMN"</a><br><br>
+<img src="jhel/uc.png" height="100" width="200">
+
+<pre style="font-size:15"><h2 style="color:black"><center>
+University of Cebu HYMN
+<center style="color:white">
+`Mid these fair Visayan Isles,
+`Neath these azure blue skies,
+Stands UC, our Beloved,
+Lofty in all her glory. 
+
+<center style="color:blue">
+Spark of wisdom, hope and joy,
+Always kindling in our hearts,
+Thy precious name, thy glorious fame,
+Will shine through all eternity.
+
+<center style="color:red">
+Thy name shall ever be our guide,
+Thy light, our inspiration,
+Keep up the light a-glowing bright,
+To thy portals, dear Alma Mater.
+
+<center style="color:green">
+Hail! Praises be to thee,
+Onward show us the way,
+Faithful and true, we'll always be,
+To thee our Alma Mater dear.
+</center></center></center></center></center></h2></pre>
+</center>
+		
+	
+</form></body></html>
